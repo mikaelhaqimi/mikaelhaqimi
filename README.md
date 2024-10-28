@@ -8,7 +8,7 @@ I am currently pursuing a Bachelor of Computer Science specifically in Data Engi
 
 * 🌍  I'm based in Johor Bahru, Johor.
 * ✉️  You can contact me at [mikaelhaqimii@gmail.com](mailto:mikaelhaqimii@gmail.com)
-* 🧠  I'm learning C++ Language
+* 🧠  I'm learning C++ Language.
 * 🤝  I'm open to collaborating on any innovative and fascinating projects.
 
 ### Skills
