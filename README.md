@@ -7,9 +7,9 @@ Data Engineering Student
 I am currently pursuing a Bachelor of Computer Science specifically in Data Engineering at UTM Johor Bahru, genuinely passionate about what I do, always aiming for quality and growth. I love editing and enjoy adding a creative touch to my projects. I focus on cultivating positivity and enjoying the bright aspects of life.
 
 * 🌍  I'm based in Johor Bahru, Johor.
-* ✉️  You can contact me at [mikaelhaqimii@gmail.com](mailto:mikaelhaqimii@gmail.com)
-* 🧠  I'm learning C++ Language.
-* 🤝  I'm open to collaborating on any innovative and fascinating projects.
+* ✉️  You can contact me at [mikaelhaqimii@gmail.com](mailto:mikaelhaqimii@gmail.com)
+* 🧠  I'm learning C++ Language.
+* 🤝  I'm open to collaborating on any innovative and fascinating projects.
 * 💻  Visit my [e-portfolio](https://mikaelhaqimi.github.io/) to explore more.
 
 ### Skills
@@ -29,3 +29,5 @@ I am currently pursuing a Bachelor of Computer Science specifically in Data Engi
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mikaelhaqimi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaelhaqimi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/mikaelhaqimi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhaqimi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
