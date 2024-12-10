@@ -10,7 +10,7 @@ I am currently pursuing a Bachelor of Computer Science specifically in Data Engi
 * ✉️  You can contact me at [mikaelhaqimii@gmail.com](mailto:mikaelhaqimii@gmail.com)
 * 🧠  I'm learning C++ Language.
 * 🤝  I'm open to collaborating on any innovative and fascinating projects.
-* 💻  Feel free to visit my [E-Portfolio](https://mikaelhaqimi.github.io/)
+* 💻  Visit my [e-portfolio](https://mikaelhaqimi.github.io/) to explore more.
 
 ### Skills
 
