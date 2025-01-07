@@ -12,6 +12,16 @@ I am currently pursuing a Bachelor of Computer Science specifically in Data Engi
 * 🤝  I'm open to collaborating on any innovative and fascinating projects.
 * 💻   Visit my [e-portfolio](https://mikaelhaqimi.github.io/) to explore more.
 
+**Courses**
+-----------
+
+> _Year 1 Semester 1_
+* 📲 [Digital Logic (SECR1013)](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Digital%20Logic)
+* ⌨️ [Discrete Structure (SECI1013)](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Discrete%20Structure)
+* 💰 [Integrity and Anti-Corruption (ULRS1032)](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Integrity%20%26%20Anti-Corruption)
+* 🖥️ [Programming Technique I (SECJ1013)](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Programming%20Technique%20I)
+* 📠 [Technology and Information System (SECP1513)](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Technology%20%26%20Information%20System)
+
 ### Skills
 
 
