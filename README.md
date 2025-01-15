@@ -17,20 +17,20 @@ I am currently pursuing a Bachelor of Computer Science specifically in Data Engi
 
 > _**Year 1 Semester 1**_
 
-* 📠 [SECP1513](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Technology%20%26%20Information%20System) Technology and Information System
-* 📲 [SECR1013](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Digital%20Logic) Digital Logic
-* ⌨️ [SECI1013](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Discrete%20Structure) Discrete Structure
+* 📟 [SECP1513](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Technology%20%26%20Information%20System) Technology and Information System
+* 🎛️ [SECR1013](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Digital%20Logic) Digital Logic
+* 🧮 [SECI1013](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Discrete%20Structure) Discrete Structure
 * 🖥️ [SECJ1013](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Programming%20Technique%20I) Programming Technique I 
 * 💰 [ULRS1032](https://github.com/mikaelhaqimi/SECPH-UTM/tree/main/Year%201/Semester%201/Integrity%20%26%20Anti-Corruption) Integrity and Anti-Corruption
 
 > _**Year 1 Semester 2**_
 
-* 📠 [SECP2613](#) System Analysis and Design (WBL)
-* 📲 [SECR1033](#) Computer Organization and Architecture
-* ⌨️ [SECI1143](#) Probability & Statistical Data Analysis
-* 🖥️ [SECJ1023](#) Programming Technique II
-* 🖥️ [SECV2113](#) Human Computer Interaction
-* 💰 [ULRS1182](#) Appreciation of Ethics and Civiizations
+* 📊 [SECP2613](#) System Analysis and Design (WBL)
+* 🖥️ [SECR1033](#) Computer Organization and Architecture
+* 📈 [SECI1143](#) Probability & Statistical Data Analysis
+* ⌨️ [SECJ1023](#) Programming Technique II
+* 📇 [SECV2113](#) Human Computer Interaction
+* 📕 [ULRS1182](#) Appreciation of Ethics and Civiizations
 
 **Skills**
 ----------
