@@ -47,9 +47,12 @@ I am currently pursuing a Bachelor of Computer Science specifically in Data Engi
 
 **Badges**
 ----------
-
+<div align="center">
+ 
 <a>_My GitHub Stats_</a>
 
  <div><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=graywhite&preferLogin=true">    <img  alt="mikaelhaqimi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mikaelhaqimi?cardType=github&theme=graywhite&preferLogin=true"/>  </a></div>
 
 <a href="https://github.com/mikaelhaqimi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhaqimi&langs_count=10&title_color=000000&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</div>
